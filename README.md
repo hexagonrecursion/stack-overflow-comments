@@ -12,7 +12,7 @@ Welcome to Stack Overflow.
 
 # Image should be text
 ```
-Please [edit] your post to add code and data as text ([using code formatting](https://stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](https://meta.stackoverflow.com/questions/285551/why-should-i-not-upload-images-of-code-data-errors/285557#285557). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data. See [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)https://stackoverflow.com/help/minimal-reproducible-example on what code is required.
+Please [edit] your post to add code and data as text ([using code formatting](https://stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](https://meta.stackoverflow.com/a/285557/). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data. See [mcve] on what code is required.
 ```
 
 # Answer
