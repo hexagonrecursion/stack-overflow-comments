@@ -25,7 +25,7 @@ This does not provide an answer to the question. Once you have sufficient reputa
 Please [edit] your post to add code and data as text ([using code formatting](https://stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](https://meta.stackoverflow.com/questions/285551/why-should-i-not-upload-images-of-code-data-errors/285557#285557). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data. See [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example)https://stackoverflow.com/help/minimal-reproducible-example on what code is required.
 ```
 
-# Me too
+# Me too answer
 ```
 Please don't add Me too as answers. It doesn't actually provide an answer to the question. If you have a different but related question, then [ask](https://stackoverflow.com/questions/ask) it (reference this one if it will help provide context). If you are interested in this specific question, you can [upvote](https://stackoverflow.com/help/privileges/vote-up) it, leave a [comment](https://stackoverflow.com/help/privileges/comment), or start a [bounty](https://stackoverflow.com/help/privileges/set-bounties) once you have enough [reputation](https://stackoverflow.com/help/whats-reputation)https://stackoverflow.com/help/whats-reputation.
 ```
