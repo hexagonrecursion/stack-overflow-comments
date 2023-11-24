@@ -17,5 +17,5 @@ This does not provide an answer to the question. Once you have sufficient reputa
 
 # Should be a comment under answer
 ```
-This does not provide an answer to the question. Once you have sufficient reputation you will be able to [comment on any post](https://stackoverflow.com/help/privileges/comment)https://stackoverflow.com/help/privileges/comment.
+This does not provide an answer to the question. Once you have sufficient reputation you will be able to [comment on any post](https://stackoverflow.com/help/privileges/comment).
 ```
