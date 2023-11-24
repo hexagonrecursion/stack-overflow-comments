@@ -1,5 +1,11 @@
 Authorship: I did NOT write this myself. I copied it from other people who probably copied this from other beopoe too
 
+# New user
+
+```
+Welcome to Stack Overflow.
+```
+
 # Should be English
 ```
 [Posts on Stack Overflow have to be in English](https://stackoverflow.com/help/non-english-questions)
