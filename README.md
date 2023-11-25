@@ -41,3 +41,8 @@ Please don't add Me too as answers. It doesn't actually provide an answer to the
 ```
 Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient privileges to [upvote](https://stackoverflow.com/help/privileges/vote-up) answers you like, which is the Stack Overflow way of saying thank you.
 ```
+
+## Link-only
+```
+While this link may answer the question, it is better to include the essential parts of the answer here and provide the link for reference. Link-only answers can become invalid if the linked page changes or is deleted.
+```
