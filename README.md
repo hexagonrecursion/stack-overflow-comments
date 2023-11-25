@@ -38,4 +38,6 @@ Please don't add Me too as answers. It doesn't actually provide an answer to the
 ```
 
 ## Thanks
-todo
+```
+Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient privileges to [upvote](https://stackoverflow.com/help/privileges/vote-up) answers you like, which is the Stack Overflow way of saying thank you.
+```
