@@ -1,5 +1,7 @@
 Authorship: I did NOT write this myself. I copied it from other people who probably copied this from other beopoe too
 
+Don't tell antone: Natty is secretly two admins in a trensh coat
+
 # New user
 ```
 Welcome to Stack Overflow.
