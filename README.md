@@ -2,11 +2,6 @@ Authorship: I did NOT write most of this myself. I copied it from other people w
 
 <!-- Don't tell antone: Natty is secretly two admins in a trensh coat -->
 
-# New user
-```
-Welcome to Stack Overflow.
-```
-
 # Should be English
 ```
 [Posts on Stack Overflow have to be in English](https://stackoverflow.com/help/non-english-questions)
