@@ -46,5 +46,5 @@ Please don't add "thanks" as answers. Invest some time in the site and you will 
 
 ## Link-only
 ```
-Please [edit] your post to include the essential parts of the answer here and provide the link for reference. [Link-only answers tend to get deleted because they can become invalid if the linked page changes](https://meta.stackexchange.com/q/225370/).
+Please [edit] your post to include the essential details of the solution in the answer itself and provide the link for reference. [Answers that contain no information other than a link are not considered answers on stack overflow because they can become invalid if the linked page changes or is deleted](https://meta.stackexchange.com/q/225370/)
 ```
