@@ -41,5 +41,5 @@ Please don't add "thanks" as answers. Invest some time in the site and you will 
 
 ## Link-only
 ```
-Please [edit] your post to include the essential details of the solution in the answer itself and provide the link for reference. [Answers that contain no information other than a link are not considered answers on stack overflow because they can become invalid if the linked page changes or is deleted](https://meta.stackexchange.com/q/225370/)
+A link to a solution is welcome, but please [edit] your answer to [quote](https://stackoverflow.com/help/referencing) the most relevant part of the page you are linking to in case the target page becomes unavailable. [Answers that are little more than a link may be deleted](https://meta.stackexchange.com/q/225370/). 
 ```
