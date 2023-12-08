@@ -43,3 +43,8 @@ Please don't add "thanks" as answers. Invest some time in the site and you will 
 ```
 A link to a solution is welcome, but please [edit] your answer to [quote](https://stackoverflow.com/help/referencing) the most relevant part of the page you are linking to in case the target page becomes unavailable. [Answers that are little more than a link may be deleted](https://meta.stackexchange.com/q/225370/). 
 ```
+
+## Same user; identical ansewrs under multiple questions
+```
+Welcome to stack overflow. Please do not post the same answer under multiple questions. If the questions are duplicates, you can [flag one to be closed as a duplicate of another once you have enough reputation](https://stackoverflow.com/help/privileges/flag-posts). If the questions are different, please tailor your answer to each question.
+```
