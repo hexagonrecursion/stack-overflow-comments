@@ -1,4 +1,4 @@
-Authorship: I did NOT write most of this myself. I copied it from other people who probably copied this from other beopoe too
+Authorship: I copied some of this from random comments on stack overflow, edited some and added some new.
 
 <!-- Don't tell antone: Natty is secretly two admins in a trensh coat -->
 
